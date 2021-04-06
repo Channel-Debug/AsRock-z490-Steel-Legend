@@ -1,19 +1,18 @@
+
 # AsRock-z490-Steel-Legend
 
-CPU - i5-10400
+### Computer Spec:
+| Component        | Brank                              |
+| ---------------- | ---------------------------------- |
+| Motheboard.      | AsRock z490 Steel Legend           | 
+| CPU              | Intel i5 10400                     | 
+| IGPU             | Intel® UHD Graphics 630            |
+| Ram              | 8 Gb DDR4 3200 Mhz                 |
+| SSD              | Kingston 480GB 2.5                 |
+| SmBios           | IMac 20,1                          |
+| BootLoader       | OpenCore                           |
 
-iGPU - Intel® UHD Graphics 630
-
-Motherboard - AsRock Z490 Steel Legend
-
-RAM - 8GB RAM Hyper X (4x2GB) 
-
-PSU - Cooler Master 750W Masterwatt Lite
-
-SSD - Kingston 480 GB Sata 2.5
-
-SMBIOS - iMac 20,1 
-
-Bootloader - Opencore
 
 For more information contact me on telegram @GabryDark0 or enter in https://t.me/HackintoshLife_it
+
+![Schermata 2021-04-06 alle 18 53 13](https://user-images.githubusercontent.com/78879120/113748943-5dda0080-9709-11eb-9ea4-e2fe7044797e.png)
