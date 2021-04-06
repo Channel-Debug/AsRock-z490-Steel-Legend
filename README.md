@@ -18,8 +18,8 @@
 
 ## Credits
 
-- [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
-- [Apple](https://apple.com) for macOS;
+- [Acidanthera](https://github.com/acidanthera)
+- [Apple](https://apple.com)
 - [daliansky](https://github.com/daliansky)
 - [Dortiana](https://github.com/dortania)
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit)
