@@ -14,7 +14,4 @@
 | SmBios           | IMac 20,1                          |
 | BootLoader       | OpenCore                           |
 
-
-For more information contact me on telegram @GabryDark0 or enter in https://t.me/HackintoshLife_it
-
 ![Schermata 2021-04-06 alle 18 53 13](https://user-images.githubusercontent.com/78879120/113748943-5dda0080-9709-11eb-9ea4-e2fe7044797e.png)
