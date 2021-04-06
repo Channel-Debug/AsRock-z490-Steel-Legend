@@ -15,3 +15,13 @@
 | BootLoader       | OpenCore                           |
 
 ![Schermata 2021-04-06 alle 18 53 13](https://user-images.githubusercontent.com/78879120/113748943-5dda0080-9709-11eb-9ea4-e2fe7044797e.png)
+
+## Credits
+
+- [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
+- [Apple](https://apple.com) for macOS;
+- [daliansky](https://github.com/daliansky)
+- [Dortiana](https://github.com/dortania)
+- [Hackintoshlifeit](https://github.com/Hackintoshlifeit)
+
+
