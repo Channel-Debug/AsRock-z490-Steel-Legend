@@ -10,7 +10,8 @@
 | CPU              | Intel i5 10400                     | 
 | IGPU             | Intel® UHD Graphics 630            |
 | Ram              | 8 Gb DDR4 3200 Mhz                 |
-| SSD              | Kingston 480GB 2.5                 |
+| SSD Sata         | Kingston 480GB 2.5                 |
+| SSD Sata         | Crucial SSD 240GB 2.5              |
 | SmBios           | IMac 20,1                          |
 | BootLoader       | OpenCore                           |
 
