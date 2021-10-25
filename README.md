@@ -28,6 +28,7 @@
 - [x] Wi-Fi and Bluetooth (Fenvi HB1200) 
 - [x] NVRAM
 - [x] Windows 10 boot from OpenCore
+- [x] Windows 11 boot from OpenCore
 - [x] All Sensors (CPU, GPU, NVME, SATA, FANS)
 - [x] Realtek RTL8125 LAN
 
@@ -37,7 +38,7 @@
 - [Acidanthera](https://github.com/acidanthera)
 - [Apple](https://apple.com)
 - [daliansky](https://github.com/daliansky)
-- [Dortiana](https://github.com/dortania)
+- [Dortania](https://github.com/dortania)
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit)
 
 
